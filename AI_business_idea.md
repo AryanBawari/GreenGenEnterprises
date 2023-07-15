@@ -1,7 +1,7 @@
 # AIYA
 AI Internship July Business Leaders ideathon
 
-# Team Name: OK
+# Team Name: GreenGen Enterprises
 
 Team Members:
 - Colin Joy
